@@ -1,0 +1,91 @@
+
+body{
+    text-align: center;
+    font-size: 12px;
+    line-height: 16.08px;
+    background-color: rgb(240, 242, 245);
+    background-size: auto;
+}
+.Facebook-img{
+    width: 240px;
+}
+.first-paragragh{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color:rgb(28, 30, 33) ;
+    margin-top: 10px;
+    margin-top: 10px;
+}
+.class-for-box{
+    box-shadow: 0.15px 0.15px 2px;
+    width: 400px;
+    margin-left: 36%;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color:white;
+    padding-bottom: 15px;
+}
+.class-for-box input{
+    display: block;
+    margin-left: 15px;
+    width: 80%;
+    margin-top: 15px;
+    padding-bottom: 14px;
+    padding-top: 14px;
+    border-radius: 6px;
+    padding-left: 16px;
+    padding-right:16px ;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    border-color: rgb(221, 223, 226);
+    border-style: 1px solid;
+    
+
+}
+.first-button{
+    display: block;
+    margin-left: 15px;
+    width: 90%;
+    margin-top: 15px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    border-radius: px;
+    background-color: rgb(24, 119, 242);
+    border: none;
+    margin-bottom:5%;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    line-height:18.76px ;
+    color: rgb(24, 119, 242);
+    cursor:pointer;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.second-button{
+    padding: 0px 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 48px;
+    background-color: rgb(66, 183, 42);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    align-items: center;
+
+}
+.align-center{
+    text-align: center;
+}
